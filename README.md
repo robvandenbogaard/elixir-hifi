@@ -1,4 +1,4 @@
-# elixir-hifi
+# ElixirHifi
 
 Attempt at creating a nice hifi-set appliance using Elixir and Nerves.
 
